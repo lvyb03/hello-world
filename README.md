@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-just another repository
+Hi Human,
+
+say hi from boston.
